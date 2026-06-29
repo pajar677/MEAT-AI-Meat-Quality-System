@@ -1,0 +1,6 @@
+{
+  "name": "MEAT — AI Meat Quality System",
+  "description": "AI-powered meat quality inspection system with chat and analysis features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
